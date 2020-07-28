@@ -1,11 +1,11 @@
 <template>
-  <section class="hero-component"
+  <b-row class="hero-component"
   :style="{ backgroundImage: `url(${backgroundUrl})` }">
     <div class="overlay"></div>
     <h1 class="title">{{ title }}</h1>
     <p class="sub-title">{{ subTitle }}</p>
     <button class="button" type="button" name="button">{{ btnText }}</button>
-  </section>
+  </b-row>
 </template>
 
 <script>
@@ -28,7 +28,6 @@ export default {
       type: String,
       default: 'Sign Up Now'
     }
-
   },
   data() {
     return {}

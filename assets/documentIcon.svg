@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="36px" viewBox="0 0 40 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>simplesetup</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.868%" y1="2.976%" x2="49.868%" y2="101.08%" id="linearGradient-1">
+            <stop stop-color="#0069FF" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#0069FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="simplesetup">
+            <polygon id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero" points="1.465 9 38.116 9 38.116 33.907 1.466 33.907"></polygon>
+            <path d="M3.14,2 C2.482,2 2,2.482 2,3.14 L2,31.884 C2,32.541 2.482,33.024 3.14,33.024 L36.07,33.024 C36.727,33.024 37.21,32.541 37.21,31.884 L37.21,3.14 C37.21,2.476 36.72,2 35.977,2 L3.14,2 Z M3.14,-0.000199805909 L35.977,-0.000199805909 C37.811,-0.000199805909 39.2091998,1.357 39.2091998,3.14 L39.2091998,31.884 C39.2184739,32.7196481 38.8906965,33.5238357 38.2997661,34.1147661 C37.7088357,34.7056965 36.9046481,35.0334739 36.069,35.0241999 L3.14,35.0241999 C2.30417647,35.0334789 1.49983327,34.7055652 0.908872891,34.1144166 C0.317912512,33.523268 -0.00974507851,32.7188205 -0.000211321371,31.883 L-0.000211321371,3.14 C-0.00947385037,2.30435192 0.31830352,1.50016432 0.90923392,0.90923392 C1.50016432,0.31830352 2.30435192,-0.00947385037 3.14,-0.000199805909 Z" id="Shape" fill="#120078" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#120078" fill-rule="nonzero" points="1 10 1 8 38.023 8 38.023 10"></polygon>
+            <path d="M4.442,5.907 L4.442,3.907 L6.582,3.907 L6.582,5.907 L4.442,5.907 Z M9.372,5.907 L9.372,3.907 L11.512,3.907 L11.512,5.907 L9.372,5.907 Z" id="Shape" fill="#0069FF" fill-rule="nonzero"></path>
+            <path d="M14.395,16.442 L18.581,16.442 M7.511,16.442 L12.256,16.442 M23.139,21.652 L26.767,21.652 M13.093,21.652 L21.186,21.652 M7.512,21.652 L10.953,21.652 M18.395,26.954 L23.791,26.954 M7.511,26.954 L16.441,26.954" id="Shape" stroke="#0069FF" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>
